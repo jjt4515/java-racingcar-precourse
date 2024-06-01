@@ -1,5 +1,6 @@
 # java-racingcar-precourse
 ### 자동차 경주
+<br>
 
 ### 구현 기능 목록
 1. 사용자 입력 처리
@@ -34,25 +35,25 @@ pobi,woni,jun
 5
 실행 결과 
 
-pobi : - 
-woni : 
-jun : - 
+pobi : - <br>
+woni : <br>
+jun : - <br>
 
-pobi : -- 
-woni : - 
-jun : -- 
+pobi : -- <br>
+woni : - <br>
+jun : -- <br>
 
-pobi : --- 
-woni : -- 
-jun : ---
+pobi : --- <br>
+woni : -- <br>
+jun : --- <br>
 
-pobi : ----
-woni : ---
-jun : ----
+pobi : ---- <br>
+woni : --- <br>
+jun : ---- <br>
 
-pobi : -----
-woni : ----
-jun : -----
+pobi : ----- <br>
+woni : ---- <br>
+jun : ----- <br>
 
 최종 우승자 : pobi, jun
 
